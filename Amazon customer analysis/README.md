@@ -27,4 +27,10 @@ Subjectivity is also a float which lies in the range of [0,1]
     - Sqlite3 for connection
     
     
-    
+## Positive Comments
+<img src="https://github.com/StMorris/Data-Analysis-with-python/blob/main/Amazon%20customer%20analysis/positive.png" 
+     style = "width:500px;height:500px"/>
+     
+ ## Negative Comments
+<img src="https://github.com/StMorris/Data-Analysis-with-python/blob/main/Amazon%20customer%20analysis/negative.png" 
+     style = "width:500px;height:500px"/>
