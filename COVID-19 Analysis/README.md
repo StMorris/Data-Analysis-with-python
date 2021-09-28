@@ -1,6 +1,9 @@
 ## Covid-19 Analysis
 
 
+## Data 
+
+The data used can be found in the COVID-19 Analysis Folder
 
 ### Visualization Package used
 
