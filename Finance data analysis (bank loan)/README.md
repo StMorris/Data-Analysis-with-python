@@ -1,9 +1,9 @@
 # Finance Data Analysis
 
 Exploratory data analysis on a banking data.
-Performed several analysis to understand the kind of customers that opted for a loan and the other customers that did not take the loan. 
-Analyse the customers on several basis.
-Explore the account holder distribution.
+- Performed several analysis to understand the kind of customers that opted for a loan and the other customers that did not take the loan. 
+- Analyse the customers on several basis.
+- Explore the account holder distribution.
 
 
 
