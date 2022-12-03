@@ -18,8 +18,10 @@ The analysis tells us that specific latitude and longitude tend to use Uber more
 
 ### Results
 
+##### Pickups seem to be at peak during the evening of the day, when people are logging off from work
+<img src='https://github.com/StMorris/Data-Analysis-with-python/blob/main/Uber%20analysis/pickup_time.png' 
+     style = "width:800px;height:500px"/>
 
-Pickups seem to be at peak during the evening of the day, when people are logging off from work
 
 
 
