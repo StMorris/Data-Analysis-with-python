@@ -26,3 +26,6 @@ kindly paste notebook link here  (https://nbviewer.jupyter.org) to view plotly i
 <img src = "https://github.com/StMorris/Data-Analysis-with-python/blob/main/Google%20Play%20Store%20App%20Analytics/paid_free_apps.png"
       style = "width:800px;height:500px"/>
 ### Free apps have a median of 500,000 downloads, which is 100 times more than the median of paid apps which is 5000.
+
+#### But does this mean we should give up on selling a paid app? - open the notebook to experience the *analysis on Paid App Prices by Category*
+
