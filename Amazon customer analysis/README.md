@@ -1,7 +1,7 @@
 # Amazon Customer Data Analysis
-  - ### Performed Sentiment Analysis on customer data (Positive and negative).
-  - ### Analysis on what user amazon can recommend more products to.
-  - ### Analysis on the behavious of customers.
+  - #### Performed Sentiment Analysis on customer data (Positive and negative).
+  - #### Analysis on what user amazon can recommend more products to.
+  - #### Analysis on the behavious of customers.
 
 
 
@@ -20,7 +20,7 @@ Subjectivity is also a float which lies in the range of [0,1]
 
 
   
-  ### Tools used
+  #### Tools used
     - TextBlob for Sentiment analysis
     - WordCloud for visualization
     - Pandas for manipulation
