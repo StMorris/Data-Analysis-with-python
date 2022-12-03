@@ -3,7 +3,7 @@
 ## Covid-19 Analysis
 
 
-## Data 
+### Data 
 
 The data used can be found in the COVID-19 Analysis Folder
 
@@ -14,7 +14,7 @@ The data used can be found in the COVID-19 Analysis Folder
 kindly paste notebook link here (https://nbviewer.jupyter.org) to view plotly interactive visualization
 
 
-## Results
+### Results
 
 ####  Top 20 countries that were badly affected by the covid-19
 <img src="https://github.com/StMorris/Data-Analysis-with-python/blob/main/COVID-19%20Analysis/top_20_countries_affected.png"
