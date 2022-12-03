@@ -16,6 +16,11 @@ The analysis tells us that specific latitude and longitude tend to use Uber more
 
 
 
-### Result
+### Results
+
+
+Pickups seem to be at peak during the evening of the day, when people are logging off from work
+
+
 
 
