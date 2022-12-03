@@ -1,9 +1,23 @@
 # Hotel Booking Analysis
 
+The dataset contains data from two different hotels. One Resort hotel and one City hotel. From the publication (https://www.sciencedirect.com/science/article/pii/S2352340918315191) we know that both hotels are located in Portugal (southern Europe), One of the hotels (H1) is a resort hotel in Algarve and the other is a city hotel (H2) in Lisbon. The distance between these two locations is ca. 280 km by car and both locations border on the north atlantic.
+
+Each observation represents a hotel booking. The datasets contain bookings due to arrive between the 1st of July of 2015 and the 31st of August 2017, including bookings that effectively arrived and bookings that were canceled. For my analysis i will only use bookings that were not cancelled, to get actual guests numbers that were recieved.
+
+#### Questions?
+- Where do the guests come from?
+- where are the guests from?
+- How much do guests pay for a room per night?
+- How does the price per night vary over the year?
+- Which are the most busy month?
+- How long do people stay at the hotels?
+- Bookings by market segment
+- How many bookings were canceled?
+- Which month has the highest number of cancelations?
+- Why are prices for aviation so high?
 
 
-
-
+kindly paste notebook link here  (https://nbviewer.jupyter.org) to view plotly interactive visualization
 
 
 ### Results
