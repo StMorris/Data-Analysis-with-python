@@ -1,3 +1,5 @@
+## Every life lost to COVID-19 is a tragedy and should be a reminder to continue taking precautions to prevent further serious illness and death.
+
 ## Covid-19 Analysis
 
 
