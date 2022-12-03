@@ -5,8 +5,8 @@ The dataset contains data from two different hotels. One Resort hotel and one Ci
 Each observation represents a hotel booking. The datasets contain bookings due to arrive between the 1st of July of 2015 and the 31st of August 2017, including bookings that effectively arrived and bookings that were canceled. For my analysis i will only use bookings that were not cancelled, to get actual guests numbers that were recieved.
 
 #### Questions?
-- Where do the guests come from?
-- where are the guests from?
+- Where are the guests from?
+     - Spatial analysis on the location the guests are from
 - How much do guests pay for a room per night?
 - How does the price per night vary over the year?
 - Which are the most busy month?
@@ -21,6 +21,11 @@ kindly paste notebook link here  (https://nbviewer.jupyter.org) to view plotly i
 
 
 ### Results
+
+#### People from all over the world stay in these two hotels. Most guests are from Portugal and other countries in Europe
+<img src = "https://github.com/StMorris/Data-Analysis-with-python/blob/main/Hotel%20booking%20analysis/guests_location.png"
+     style = "width:800px;height:500px"/>
+
 
 ##### Prices in the Resort hotel are much higher during the summer (june 1- august 31),while prices in the city varies less and is most expensive during spring (march 1 - may 31) and autumn (september 1 - november 30).   
 
