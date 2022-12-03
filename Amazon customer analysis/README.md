@@ -4,6 +4,8 @@
   - ### Analysis on the behavious of customers.
 
 
+
+
 ## Data
 
 - sql file: https://drive.google.com/file/d/1nDhRUpI2_QX1vqfccvbwXBUBXhFnZ0O7/
