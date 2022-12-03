@@ -21,11 +21,12 @@ For example, the plots show that the Uber pickup patterns of people are very sim
 
 ### Results
 
-##### Pickups seem to be at peak during the evening of the day, when people are logging off from work, specifically, *17:00 Hrs*
+#### Pickups seem to be at peak during the evening of the day, when people are logging off from work, specifically, *17:00 Hrs*
 <img src='https://github.com/StMorris/Data-Analysis-with-python/blob/main/Uber%20analysis/pickup_time.png' 
      style = "width:800px;height:500px"/>
 
 
-##### There is usually a rush in the evening, although not so much on sundays and mondays
-
+#### There is usually a rush in the evening, although not so much on sundays and mondays
+<img src='https://github.com/StMorris/Data-Analysis-with-python/blob/main/Uber%20analysis/hour_rush_weekdays.png'
+     style = "width:800px;height:500px"/>
 
