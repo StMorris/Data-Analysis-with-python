@@ -26,6 +26,6 @@ For example, the plots show that the Uber pickup patterns of people are very sim
      style = "width:800px;height:500px"/>
 
 
-
+##### There is usually a rush in the evening, although not so much on sundays and mondays
 
 
